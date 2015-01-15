@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>74683EC2-4D0A-42D1-89E2-81929975156C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Count</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>15F77DA10E02B40E8010D1F4C3D664EC8B3F0940</key>
+		<string>github.com:SuzukiYuka/Swift_Count_Sample.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Count.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>15F77DA10E02B40E8010D1F4C3D664EC8B3F0940</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:SuzukiYuka/Swift_Count_Sample.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>15F77DA10E02B40E8010D1F4C3D664EC8B3F0940</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>15F77DA10E02B40E8010D1F4C3D664EC8B3F0940</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Count</string>
+		</dict>
+	</array>
+</dict>
+</plist>

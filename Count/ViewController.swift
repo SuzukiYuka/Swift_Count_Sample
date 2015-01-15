@@ -17,11 +17,20 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
     }
     
-    @IBAction func puls(){
+    @IBAction func plus(){
         number = number + 1
         label.text = "\(number)"
     }
     
+    @IBAction func minus(){
+        number = number - 1
+        label.text = "\(number)"
+    }
+    
+    @IBAction func clear(){
+        number = 0
+        label.text = "\(number)"
+    }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
